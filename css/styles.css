@@ -87,6 +87,7 @@ ul {
     font-size: 16px;
     line-height: 1.63;
     letter-spacing: 0.03em;
+    cursor: pointer;
 }
 
 .filters .dutton:focus,
