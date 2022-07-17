@@ -117,9 +117,21 @@ ul {
 /*секция иконки*/
 .section-images .title {
     color:var(--title-text-color);
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    letter-spacing: 0.03em;
 }
 
 /*секция команда*/
+.section-team .title-dreams {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
 .section-team .title {
     color: var(--title-text-color);
     font-weight: 500;
