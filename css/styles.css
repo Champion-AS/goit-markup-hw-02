@@ -183,6 +183,7 @@ text-decoration: none;
     line-height: 1.41;
     letter-spacing: 0.03em;
     color: #FFFFFF;
+    text-decoration: none;
 }
 .phone-footer {
     font-weight: 400;
@@ -190,6 +191,8 @@ text-decoration: none;
     line-height: 24px;
     letter-spacing: 0.03em;    
     color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+
 }
 .nav-footer :hover,:focus {
     color: #2196F3;
